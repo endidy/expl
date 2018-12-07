@@ -7,7 +7,7 @@
   // name your instance!
   "title": "Dividend Cash",
 
-  "address": "127.0.0.1:80",
+  "address": "explorer.dividend.cash",
 
   // coin name
   "coin": "Dividend Cash",
